@@ -61,7 +61,7 @@ Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024>
 
 * BARBOSA, B. F.; ARAUJO, C. Q. D.; RAMOS, J. V. A. P.; ALVES, L. K.; FURTADO, P. H. D. S. Desenvolvimento de Mecânicas Básicas para um RPG 2D. 1 nov. 2024. DOI 10.5281/zenodo.14025670. Disponível em: https://zenodo.org/records/14025671.
 * NASCIMENTO, E. M. D. S.; SOUZA, G. C. D.; ALMEIDA, K. S. D.; SCARANELLO, L.; CERQUEIRA, N.; PEDRO EDUARDO ALVES DA SILVA; RAISSA CAVALCANTI LIMA; TAMIRES DA SILVA BEZERRA. Hora Marcada - PHP. 7 nov. 2024. DOI 10.5281/zenodo.14053068. Disponível em: https://zenodo.org/records/14053069.
-* RAMOS, A. V.; LEMOS, B. L.; SILVA, D. D. A.; SOUZA, I. R. D.; SILVA, R. D. S.; AGUILAR, V. H. L. Artigo do projeto: CodeAI. 12 nov. 2024. DOI 10.5281/zenodo.14083689. Disponível em: 10.5281/zenodo.14083688.
+* RAMOS, A. V.; LEMOS, B. L.; SILVA, D. D. A.; SOUZA, I. R. D.; SILVA, R. D. S.; AGUILAR, V. H. L. Artigo do projeto: CodeAI. 12 nov. 2024. DOI 10.5281/zenodo.14083688. Disponível em: https://zenodo.org/records/14083689.
 * SILVA, B. V. da; THOMAZ, B.; SANTOS, D.; SILVA, G.; DIAS, G.; MACHADO, L.; SOUZA, T.; MATOS, V. Projeto Atlas BGTV. 11 nov. 2024. DOI 10.5281/zenodo.14075075. Disponível em: https://zenodo.org/records/14083391.
 * ALMEIDA, L. G. S. de; OLIVEIRA, R. O. F.; APARECIDA, J. da S. O.; JESUS, D. V. ADEP - Ambiente Digital das Escolas Públicas. 8 nov. 2024. DOI 10.5281/zenodo.14058447. Disponível em: https://zenodo.org/records/14058448.
 * ANDRE, C., Marcelo, Walter e Andre; ADS. Projeto TI Entrevista. 9 nov. 2024. DOI 10.5281/zenodo.14058486. Disponível em: https://zenodo.org/records/14058487.
