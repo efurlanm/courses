@@ -47,5 +47,5 @@ Dentre os objetivos do projeto final da disciplina, estão:
 
 - Refletir sobre a vivência prática da profissão
 - Articular o desempenho profissional e acadêmico do discente
-- Estímular o raciocínio crítico, com base em literatura atualizada
+- Estimular o raciocínio crítico, com base em literatura atualizada
 - Incentivar a produção de conhecimento

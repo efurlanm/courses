@@ -1,6 +1,6 @@
 # Linguagem de Programação
 
-*Última modificação: 2023-08-23*
+*Última edição: 2023-08-23*
 
 Este repositório contém minhas notas pessoais
 
