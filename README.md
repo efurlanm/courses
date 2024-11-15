@@ -6,42 +6,58 @@ This repository contains my personal notes related to the subjects I teach (in P
 
 ### Current (in Portuguese)
 
-* Arquitetura e Organização de Computadores
-* Lógica e Matemática Computacional
-* Redes de Comunicação Industrial
-* Projeto Integrado II
+* Arquitetura e Organização de Computadores (aoc)
+* Lógica e Matemática Computacional (lmc)
+* Redes de Comunicação Industrial (rci)
+* Projeto Integrado (pi)
 
 ### Past (in Portuguese)
 
-* Algoritmos e Estrutura de Dados Avançado
-* Algoritmos e Programação Estruturada
-* Compiladores
-* Criatividade e Inovação
-* Eletrotécnica
-* Fundamentos da Programação Paralela e Distribuída
-* Gestão da Produção
-* Gestão de Projetos para Produção
-* Linguagem de Programação
-* Linguagem Orientada a Objetos
-* Linguagens Formais, Autômatos e Computabilidade
-* Logística Reversa
-* Obras de Transporte
-* Organização Industrial e Automação
-* Planejamento Estratégico da Produção
-* Programação Orientada a Objetos
-* Projeto de Máquinas
-* Projeto Integrado I
-* Proteção do Sistema Elétrico de Potência
-* Sistemas Digitais e Microprocessadores
-* Sistemas Digitais
-* Sistemas Elétricos de Potência
-* Sistemas Operacionais
-* Sistemas Prediais
-* Técnicas de Programação
-* Teoria das Estruturas
-* Tópicos Especiais em Ciências da Computação
+* Algoritmos e Estrutura de Dados Avançado (aed)
+* Algoritmos e Programação Estruturada (ape)
+* Compiladores (comp)
+* Criatividade e Inovação (cinov)
+* Eletrotécnica (eapli)
+* Fundamentos da Programação Paralela e Distribuída (ppara)
+* Gestão da Produção (gprod)
+* Gestão de Projetos para Produção (gproj)
+* Linguagem de Programação (lprog)
+* Linguagem Orientada a Objetos (loo)
+* Linguagens Formais, Autômatos e Computabilidade (lform)
+* Logística Reversa (lreve)
+* Obras de Transporte (otran)
+* Organização Industrial e Automação (oauto)
+* Planejamento Estratégico da Produção (pestr)
+* Programação Orientada a Objetos (poo)
+* Projeto de Máquinas (pmaq)
+* Projeto Integrado (pi)
+* Proteção do Sistema Elétrico de Potência (psep)
+* Sistemas Digitais e Microprocessadores (sdm)
+* Sistemas Digitais (sdigi)
+* Sistemas Elétricos de Potência (sep)
+* Sistemas Operacionais (so)
+* Sistemas Prediais (spred)
+* Técnicas de Programação (tprog)
+* Teoria das Estruturas (testr)
+* Tópicos Especiais em Ciências da Computação (tespe)
+
 
 ## Teaching material
+
+
+### 2024 27º EAC conference (in Portuguese)
+
+Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024>
+
+* CRUZ, P. D. S.; NASCIMENTO, J. N. D.; SANTOS, E. D. C. D.; ARAUJO, I. E. O. D.; FLORES, W. R. B.; CLAVA, G. D. V.; SOUZA, L. S. B.; MIRANDA, E. F. SISTEMA DE GESTÃO DE VENDAS. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26892.
+* MOTA, W. M. D.; MIRANDA, E. F. EMPOWERU. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26383.
+* RODRIGUES, G. N.; SANTOS, L. S.; CAMPOS, K. M. D.; BATISTA, I. F. B.; ARAUJO, I. A. D.; MENDES, J. V.; MIRANDA, E. F. TO DO LIST. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26534.
+* TAVARES, P. H. D. D. S.; CHAMBI, C. M. P.; MIRANDA, E. F. PROJETO DE GESTAO DE ESTOQUE. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26134.
+* DAREZZO, V. R. F.; BRUM, D. M. M.; MULLER, G. R.; SILVA, D. F. A. D.; VOGIANTZIS, N. IMPACTO DAS ENCHENTES NO RIO GRANDE DO SUL: UM MAPA DE CALOR DAS FATALIDADES. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab25470.
+* NETO, M. G. P.; GOES, A. P. C. D.; MARTINS, K. O.; GUERREIRO, E. S.; MIRANDA, E. F. PLATAFORMA DE CADASTRO E GERENCIAMENTO DE ALUNOS PARA FACULDADE. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26451.
+* SOUZA, Y. A. R. D.; MACHADO, T. S.; MIRANDA, E. F. DESENVOLVIMENTO E IMPACTO DE UM APLICATIVO DE SUSTENTABILIDADE PARA INCENTIVAR PRÁTICAS ECOLÓGICAS NO COTIDIANO. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26646.
+* TAMBERI, G. G.; RIBEIRO, M. H. J.; NASCIMENTO, M. C. A. D.; VOGIANTZIS, N.; ARRUDA, A. H. L.; SILVA, G. E. D. PROJETO INTEGRADO 2° SEMESTRE - FACULDADE ANHANGUERA. Encontro de Atividades Científicas, n. 27, 2024. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024#trab26315.
+
 
 ### 2023 26º EAC conference (in Portuguese)
 
@@ -56,6 +72,7 @@ Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023>
 * SILVA, J. V. B. D.; MIRANDA, E. F. Carrinho Educativo Controlado por Bluetooth e Aplicativo. 2023. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22444.
 * SOUZA, L. D. A.; KIMURA, H. T.; NARDINI, D. A.; SANTOS, L. S. D.; POMA, K. G. S.; SILVA, E. J. A. V. D.; MIRANDA, E. F. Fases da Compilação na Utilização do Arduino Uno. 2023. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab23575.
 * SOUZA, L. D. A.; SILVA, E. J. A. V. D.; SANTOS, L. S. D.; SAMO, K.; NARDINI, D. A.; KIMURA, H. T.; MIRANDA, E. F. Utilização do Microcontrolador Arduino para a Construção de um Robô Seguidor de Linha. 2023. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22099.
+
 
 ### 2023 classroom material (in Portuguese)
 
