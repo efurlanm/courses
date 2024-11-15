@@ -59,19 +59,20 @@ Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024>
 
 ### 2024 other publications and links of interest
 
-* BARBOSA, B. F.; ARAUJO, C. Q. D.; RAMOS, J. V. A. P.; ALVES, L. K.; FURTADO, P. H. D. S. Desenvolvimento de Mecânicas Básicas para um RPG 2D. 1 nov. 2024. DOI 10.5281/zenodo.14025670. Disponível em: https://zenodo.org/records/14025671. Acesso em: 12 nov. 2024.
-* NASCIMENTO, E. M. D. S.; SOUZA, G. C. D.; ALMEIDA, K. S. D.; SCARANELLO, L.; CERQUEIRA, N.; PEDRO EDUARDO ALVES DA SILVA; RAISSA CAVALCANTI LIMA; TAMIRES DA SILVA BEZERRA. Hora Marcada - PHP. 7 nov. 2024. DOI 10.5281/zenodo.14053068. Disponível em: https://zenodo.org/records/14053069. Acesso em: 12 nov. 2024.
-* RAMOS, A. V.; LEMOS, B. L.; SILVA, D. D. A.; SOUZA, I. R. D.; SILVA, R. D. S.; AGUILAR, V. H. L. Artigo do projeto: CodeAI. 12 nov. 2024. DOI 10.5281/zenodo.14083689. Disponível em: 10.5281/zenodo.14083688. Acesso em: 12 nov. 2024.
-* SILVA, B. V. da; THOMAZ, B.; SANTOS, D.; SILVA, G.; DIAS, G.; MACHADO, L.; SOUZA, T.; MATOS, V. Projeto Atlas BGTV. 11 nov. 2024. DOI 10.5281/zenodo.14075075. Disponível em: https://zenodo.org/records/14083391. Acesso em: 12 nov. 2024.
-* ALMEIDA, L. G. S. de; OLIVEIRA, R. O. F.; APARECIDA, J. da S. O.; JESUS, D. V. ADEP - Ambiente Digital das Escolas Públicas. 8 nov. 2024. DOI 10.5281/zenodo.14058447. Disponível em: https://zenodo.org/records/14058448. Acesso em: 10 nov. 2024.
-* ANDRE, C., Marcelo, Walter e Andre; ADS. Projeto TI Entrevista. 9 nov. 2024. DOI 10.5281/zenodo.14058486. Disponível em: https://zenodo.org/records/14058487. Acesso em: 10 nov. 2024.
-* NETO, T.; ARAÚJO, R. Safira. 9 nov. 2024. DOI 10.5281/zenodo.14058417. Disponível em: https://zenodo.org/records/14058418. Acesso em: 10 nov. 2024.
-* SANTOS PEREIRA, I.; VIEIRA DE SOUZA, L. Carrinho com arduino Uno Controlado por um controle de PS2. 8 nov. 2024. DOI 10.5281/zenodo.14053075. Disponível em: https://zenodo.org/records/14053076. Acesso em: 10 nov. 2024.
-* ZANOLA, M. V. C.; HIRAMATSU, N. F. Relação benéfica entre a tecnologia e a saúde alimentícia. 8 nov. 2024. DOI 10.5281/zenodo.14056829. Disponível em: https://zenodo.org/records/14056830. Acesso em: 10 nov. 2024.
-* FAGUNDES, F. Treinando html/css. 6 nov. 2024. DOI 10.5281/zenodo.14047990. Disponível em: https://zenodo.org/records/14047991. Acesso em: 10 nov. 2024.
-* FERREIRA, R. Condominium-RESTful-API. 6 nov. 2024. DOI 10.5281/zenodo.14046062. Disponível em: https://zenodo.org/records/14046063. Acesso em: 10 nov. 2024.
-* MIGUEL, M. Happy Dogs: Facilitando a Vida dos Donos de Cães. 25 set. 2024. DOI 10.5281/zenodo.13839897. Disponível em: https://zenodo.org/records/13839898. Acesso em: 10 nov. 2024.
-* SOUZA, A. A. T.; SOUZA, G. S. de. Projeto do programa gerenciamento de estacionamento. 6 nov. 2024. DOI 10.5281/zenodo.14047981. Disponível em: https://zenodo.org/records/14047982. Acesso em: 10 nov. 2024.
+* BARBOSA, B. F.; ARAUJO, C. Q. D.; RAMOS, J. V. A. P.; ALVES, L. K.; FURTADO, P. H. D. S. Desenvolvimento de Mecânicas Básicas para um RPG 2D. 1 nov. 2024. DOI 10.5281/zenodo.14025670. Disponível em: https://zenodo.org/records/14025671.
+* NASCIMENTO, E. M. D. S.; SOUZA, G. C. D.; ALMEIDA, K. S. D.; SCARANELLO, L.; CERQUEIRA, N.; PEDRO EDUARDO ALVES DA SILVA; RAISSA CAVALCANTI LIMA; TAMIRES DA SILVA BEZERRA. Hora Marcada - PHP. 7 nov. 2024. DOI 10.5281/zenodo.14053068. Disponível em: https://zenodo.org/records/14053069.
+* RAMOS, A. V.; LEMOS, B. L.; SILVA, D. D. A.; SOUZA, I. R. D.; SILVA, R. D. S.; AGUILAR, V. H. L. Artigo do projeto: CodeAI. 12 nov. 2024. DOI 10.5281/zenodo.14083689. Disponível em: 10.5281/zenodo.14083688.
+* SILVA, B. V. da; THOMAZ, B.; SANTOS, D.; SILVA, G.; DIAS, G.; MACHADO, L.; SOUZA, T.; MATOS, V. Projeto Atlas BGTV. 11 nov. 2024. DOI 10.5281/zenodo.14075075. Disponível em: https://zenodo.org/records/14083391.
+* ALMEIDA, L. G. S. de; OLIVEIRA, R. O. F.; APARECIDA, J. da S. O.; JESUS, D. V. ADEP - Ambiente Digital das Escolas Públicas. 8 nov. 2024. DOI 10.5281/zenodo.14058447. Disponível em: https://zenodo.org/records/14058448.
+* ANDRE, C., Marcelo, Walter e Andre; ADS. Projeto TI Entrevista. 9 nov. 2024. DOI 10.5281/zenodo.14058486. Disponível em: https://zenodo.org/records/14058487.
+* NETO, T.; ARAÚJO, R. Safira. 9 nov. 2024. DOI 10.5281/zenodo.14058417. Disponível em: https://zenodo.org/records/14058418.
+* RIBEIRO, P. H. D. S.; QUEIROZ, R. K. F. D. Criação de Projeto com SQL Server, Visal Studio Code e Power BI. [S. l.: s. n.], 2024. Disponível em: https://github.com/PedroHenrique0033/projeto-integrado.
+* SANTOS PEREIRA, I.; VIEIRA DE SOUZA, L. Carrinho com arduino Uno Controlado por um controle de PS2. 8 nov. 2024. DOI 10.5281/zenodo.14053075. Disponível em: https://zenodo.org/records/14053076.
+* ZANOLA, M. V. C.; HIRAMATSU, N. F. Relação benéfica entre a tecnologia e a saúde alimentícia. 8 nov. 2024. DOI 10.5281/zenodo.14056829. Disponível em: https://zenodo.org/records/14056830.
+* FAGUNDES, F. Treinando html/css. 6 nov. 2024. DOI 10.5281/zenodo.14047990. Disponível em: https://zenodo.org/records/14047991.
+* FERREIRA, R. Condominium-RESTful-API. 6 nov. 2024. DOI 10.5281/zenodo.14046062. Disponível em: https://zenodo.org/records/14046063.
+* MIGUEL, M. Happy Dogs: Facilitando a Vida dos Donos de Cães. 25 set. 2024. DOI 10.5281/zenodo.13839897. Disponível em: https://zenodo.org/records/13839898.
+* SOUZA, A. A. T.; SOUZA, G. S. de. Projeto do programa gerenciamento de estacionamento. 6 nov. 2024. DOI 10.5281/zenodo.14047981. Disponível em: https://zenodo.org/records/14047982.
 
 
 ### 2023 26º EAC conference (in Portuguese)
