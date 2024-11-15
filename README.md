@@ -41,9 +41,9 @@ This repository contains my personal notes related to the subjects I teach (in P
 * Teoria das Estruturas (testr)
 * Tópicos Especiais em Ciências da Computação (tespe)
 
-## Teaching material
+## Teaching material (in Portuguese)
 
-### 2024 27º EAC conference (in Portuguese)
+### 2024 27º EAC conference
 
 Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024>
 
@@ -75,7 +75,7 @@ Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2024>
 * SOUZA, A. A. T.; SOUZA, G. S. de. Projeto do programa gerenciamento de estacionamento. 6 nov. 2024. DOI 10.5281/zenodo.14047981. Disponível em: https://zenodo.org/records/14047982.
 
 
-### 2023 26º EAC conference (in Portuguese)
+### 2023 26º EAC conference
 
 Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023>
 
@@ -90,7 +90,7 @@ Website: <https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023>
 * SOUZA, L. D. A.; SILVA, E. J. A. V. D.; SANTOS, L. S. D.; SAMO, K.; NARDINI, D. A.; KIMURA, H. T.; MIRANDA, E. F. Utilização do Microcontrolador Arduino para a Construção de um Robô Seguidor de Linha. 2023. Disponível em: https://eac.pgsscogna.com.br/anais/edicao-ano.php?ano=2023#trab22099.
 
 
-### 2023 classroom material (in Portuguese)
+### 2023 classroom material
 
 * Miranda, E. F. (2023a). Análise de falhas e cálculo de esforços. <http://repositorio.pgsskroton.com/handle/123456789/59641>
 * Miranda, E. F. (2023b). Análise dimensional e estrutural. <http://repositorio.pgsskroton.com/handle/123456789/59642>
