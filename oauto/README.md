@@ -2,9 +2,11 @@
 
 Website: <https://efurlanm.github.io/teaching/>
 
-![](img/silveira.jpg)
-![](img/moraes.jpg)
-![](img/slack.jpg)
+Referências:
+
+![](img/silveira.jpg)&emsp;
+![](img/moraes.jpg)&emsp;
+![](img/slack.jpg)&emsp;
 ![](img/groover.jpg)
 
 - SILVEIRA, Paulo Rogério da; SANTOS, Winderson Eugenio dos. *Automação e controle discreto*. 6. ed. São Paulo: Érica, 1999.

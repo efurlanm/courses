@@ -2,8 +2,10 @@
 
 Website: <https://efurlanm.github.io/teaching/>
 
-![](img/tavares.jpg)
-![](img/slack.jpg)
+Referências:
+
+![](img/tavares.jpg)&emsp;
+![](img/slack.jpg)&emsp;
 ![](img/correa.jpg)
 
 - TAVARES, Mauro Calixta. *Gestão estratégica*. 3. ed. São Paulo: Atlas, 2010.

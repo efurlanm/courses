@@ -1,3 +1,3 @@
 # Teoria das Estruturas
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/testr/>

@@ -1,8 +1,10 @@
 # Projeto de Máquinas
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/pmaq/>
 
-![](img/lobo.jpg)
+Referências:
+
+![](img/lobo.jpg)&emsp;
 ![](img/norton.jpg)
 
 - LOBO, Y. R. de O.; JÚNIOR, I. E. de O.; ESTAMBASSE, E. C.; SHIGUEMOTO, A. C. G. Projeto de máquinas. Londrina: Editora e Distribuidora Educacional S.A., 2019. ISBN 978-85-522-1466-3

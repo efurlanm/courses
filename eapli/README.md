@@ -1,6 +1,8 @@
 # Eletrotécnica Aplicada
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/eapli/>
+
+Referências:
 
 ![](img/creder.jpg)
 

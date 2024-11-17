@@ -1,8 +1,11 @@
 # Compiladores
 
-Website: <https://efurlanm.github.io/teaching/comp>
+Website: <https://efurlanm.github.io/teaching/comp/>
 
-![](img/fedozzi.jpg) ![](img/aho.jpg) ![](img/setzer.jpg) ![](img/delamaro.jpg)
+![](img/fedozzi.jpg)&emsp;
+![](img/aho.jpg)&emsp;
+![](img/setzer.jpg)&emsp;
+![](img/delamaro.jpg)
 
 - FEDOZZI, R. [Compiladores](http://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/COMPILADORES/U1/LIVRO_UNICO.pdf). 2018.
 - AHO, A. V. et al. [Compiladores: princípios, técnicas e ferramentas](https://www.amazon.com.br/Compiladores-princ%C3%ADpios-ferramentas-Alfred-Aho/dp/8588639246). 2008.

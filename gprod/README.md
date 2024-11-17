@@ -1,6 +1,8 @@
 # Gestão da Produção
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/gprod/>
+
+Referências:
 
 ![](img/albertin.jpg)
 

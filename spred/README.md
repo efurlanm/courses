@@ -1,6 +1,8 @@
 # Sistemas Prediais
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/spred/>
+
+Referências:
 
 ![](img/creder.jpg)
 

@@ -1,6 +1,8 @@
 # Gestão de Projetos para Produção
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/gproj/>
+
+Referências:
 
 ![](img/carvalho.jpg)
 
