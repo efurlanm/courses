@@ -1,6 +1,6 @@
 # Tópicos Especiais em Ciências da Computação
 
-Web page: <https://efurlanm.github.io/teaching/tesp/>
+Web page: <https://efurlanm.github.io/teaching/tespe/>
 
 Referências:
 
