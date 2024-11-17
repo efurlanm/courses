@@ -1,6 +1,6 @@
 # Sistemas Prediais
 
-Website: <https://github.com/efurlanm/teaching/>
+Website: <https://efurlanm.github.io/teaching/>
 <
 ![](img/creder.jpg)
 

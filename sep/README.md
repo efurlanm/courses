@@ -1,6 +1,6 @@
 # Sistemas Elétricos de Potência
 
-Website: <https://github.com/efurlanm/teaching/>
+Website: <https://efurlanm.github.io/teaching/>
 
 ![](img/schincariol.jpg)&emsp;
 ![](img/monticelli.jpg)&emsp;

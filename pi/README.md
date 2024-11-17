@@ -1,6 +1,6 @@
 # Projeto Integrado
 
-Website: <https://github.com/efurlanm/teaching/>
+Website: <https://efurlanm.github.io/teaching/>
 
 ![](img/artero.png)
 
