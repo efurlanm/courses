@@ -1,6 +1,6 @@
 # Proteção do Sistema Elétrico de Potência
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/psep/>
 
 Referências:
 

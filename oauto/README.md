@@ -1,6 +1,6 @@
 # Organização Industrial e Automação
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/oauto/>
 
 Referências:
 

@@ -1,6 +1,6 @@
 # Planejamento Estratégico da Produção
 
-Website: <https://efurlanm.github.io/teaching/>
+Website: <https://efurlanm.github.io/teaching/pestr/>
 
 Referências:
 
