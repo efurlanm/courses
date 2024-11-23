@@ -1,66 +1,68 @@
 # Projeto
 
-*Última modificação: 2023-08-23*
+*Última edição: 2023-08-23*
 
 ## Objetivos
 
-- Competição de robô seguidor de linha com Arduino
-- Projeto, construção, documentação e publicação
-- Aplicação prática dos conhecimentos adquiridos na disciplina
-- Refletir sobre a vivência prática da profissão
-- Articular o desempenho profissional e acadêmico
-- Estimular o raciocínio crítico, com base em literatura atualizada
-- Incentivar a produção de conhecimento
+- Competição de robô seguidor de linha com Arduino.
+- Projeto, construção, documentação e publicação.
+- Aplicação prática dos conhecimentos adquiridos na disciplina.
+- Refletir sobre a vivência prática da profissão.
+- Articular o desempenho profissional e acadêmico.
+- Estimular o raciocínio crítico, com base em literatura atualizada.
+- Incentivar a produção de conhecimento.
 
 ## Documentação e publicação
 
 - Todas as fontes devem ser referenciadas
-  - ARRABAL, A. K. *Indicação de fontes em trabalhos científicos*. <https://www.furb.br/web/upl/arquivos/201210081830180.Fontes_2010.pdf?20230627183338>
-- Todas as figuras devem possuir a indicação da fonte <https://normas-abnt.espm.br/index.php?title=Figuras>
-- Exemplo de artigo curto de duas páginas <https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.201900373>
-- Cuidado com direitos autorais, e com plágio
+     - ARRABAL, A. K. *Indicação de fontes em trabalhos científicos*. <https://www.furb.br/web/upl/arquivos/201210081830180.Fontes_2010.pdf?20230627183338>
+- Todas as figuras devem possuir a indicação da fonte
+     - <https://normas-abnt.espm.br/index.php?title=Figuras>
+- Exemplo de artigo curto de duas páginas
+     - <https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.201900373>
+- Cuidado com direitos autorais e com plágio.
 
 ## Hardware e software livres
 
-- O hardware, software, e a documentação utilizados no projeto devem ser livres, abertos, públicos, didáticos, reproduzíveis, e de fácil acesso
-- Utilizar licença LGPL para software, e CC-BY-SA-4.0 para documentação e hardware
+- O hardware, software, e a documentação utilizados no projeto devem ser livres, abertos, públicos, didáticos, reproduzíveis, e de fácil acesso.
+- Utilizar licença LGPL para software, e CC-BY-SA-4.0 para documentação e hardware.
 
 ## Projetos de referência
 
 - Ironcup 2018 - Seguidor de linha <https://youtu.be/ET_KOCVGc98>
 - Robô Sloth, da Project Neon, da Federal do ABC <https://projectneon.dev/>
-    - Github <https://github.com/project-neon>
-    - Youtube <https://www.youtube.com/@ProjectNeon>
-    - Instagram <https://www.instagram.com/projectneon/>
-    - Facebook <https://www.facebook.com/ufabc.neon>
+     - Github <https://github.com/project-neon>
+     - Youtube <https://www.youtube.com/@ProjectNeon>
+     - Instagram <https://www.instagram.com/projectneon/>
+     - Facebook <https://www.facebook.com/ufabc.neon>
 - Equipe Robocap - Robotic Team, da UFSJ <https://www.ufsj.edu.br/noticias_ler.php?codigo_noticia=6843>
-    - Wikipédia <https://pt.wikipedia.org/wiki/ThundeRatz>
-    - Facebook <https://www.facebook.com/equiperobocapufsj/>
-    - Página web <https://equiperobocap.wixsite.com/equiperobocap>
+     - Wikipédia <https://pt.wikipedia.org/wiki/ThundeRatz>
+     - Facebook <https://www.facebook.com/equiperobocapufsj/>
+     - Página web <https://equiperobocap.wixsite.com/equiperobocap>
 - ThundeRatz - equipe de robótica da Poli/USP <https://thunderatz.org/>
-    - Github <https://github.com/ThundeRatz/>
-    - Robô Tracer <https://thunderatz.org/projects/robots/tracer>
-    - Robô Redondinho <https://thunderatz.org/projects/robots/redondinho>
-    - Tracer - IRON CUP 2020 <https://youtu.be/w3KJgNGFeb8>
-    - Summer Challenge 2012 <https://youtu.be/p9-iju_-pMw>
-    - Memorial da participação da thunderatz no winter challenge 10ª edição <https://docplayer.com.br/63261771-Memorial-da-participacao-da-thunderatz-no-winter-challenge-10a-edicao.html>
-    - Blog da Natalia Kreuser <https://nataliakreuser.wordpress.com/2015/02/13/urc-conheca-a-equipe-thunderatz/>
+     - Github <https://github.com/ThundeRatz/>
+     - Robô Tracer <https://thunderatz.org/projects/robots/tracer>
+     - Robô Redondinho <https://thunderatz.org/projects/robots/redondinho>
+     - Tracer - IRON CUP 2020 <https://youtu.be/w3KJgNGFeb8>
+     - Summer Challenge 2012 <https://youtu.be/p9-iju_-pMw>
+     - Memorial da participação da thunderatz no winter challenge 10ª edição <https://docplayer.com.br/63261771-Memorial-da-participacao-da-thunderatz-no-winter-challenge-10a-edicao.html>
+     - Blog da Natalia Kreuser <https://nataliakreuser.wordpress.com/2015/02/13/urc-conheca-a-equipe-thunderatz/>
 - Trincabotz - Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-    - Site <https://trincabotz.com.br/>
-    - Twitter <https://twitter.com/trincabotz>
-    - Instagram <https://www.instagram.com/trincabotz/>
-    - IronCup 2020, Artemis <https://youtu.be/Ad8XyKWhwE0>
-    - WCXII | Ártemis - Seguidor de Linha <https://youtu.be/z0spzWxJKxU>
-    - Seguidor de linha I SRC 2018 <https://youtu.be/Io-2ewbmxWI>
-    - Nêmesis e Ártemis I Iron cup 2019 <https://youtu.be/7ALRWt8QVME>
-    - Perseguidor de linha - Iron Cup 2023 <https://www.youtube.com/watch?v=_TBno_ChXeY>
+     - Site <https://trincabotz.com.br/>
+     - Twitter <https://twitter.com/trincabotz>
+     - Instagram <https://www.instagram.com/trincabotz/>
+     - IronCup 2020, Artemis <https://youtu.be/Ad8XyKWhwE0>
+     - WCXII | Ártemis - Seguidor de Linha <https://youtu.be/z0spzWxJKxU>
+     - Seguidor de linha I SRC 2018 <https://youtu.be/Io-2ewbmxWI>
+     - Nêmesis e Ártemis I Iron cup 2019 <https://youtu.be/7ALRWt8QVME>
+     - Perseguidor de linha - Iron Cup 2023 <https://www.youtube.com/watch?v=_TBno_ChXeY>
 - Robotic4All - Instituto Federal do Paraná IFPR
-    - Github <https://github.com/Robotic4All>
-    - Facebook <https://www.facebook.com/Robotic4All>
-    - Salão de Robótica 2019 - Robô Seguidor de Linha com Arduíno <https://youtu.be/iDTZZb-7LKk>
-    - Clóvis Robô Seguidor de Linha <https://youtu.be/epmw1bu26Po>
+     - Github <https://github.com/Robotic4All>
+     - Facebook <https://www.facebook.com/Robotic4All>
+     - Salão de Robótica 2019 - Robô Seguidor de Linha com Arduíno <https://youtu.be/iDTZZb-7LKk>
+     - Clóvis Robô Seguidor de Linha <https://youtu.be/epmw1bu26Po>
 - ERUS - Equipe de robótica da Universidade Federal do Espírito Santo
-    - Github <https://github.com/erufes>
+     - Github <https://github.com/erufes>
 
 ## Artigo científico
 
@@ -69,7 +71,8 @@
 - FERREIRA, L. *Utilização do ChatGPT em trabalhos e artigos*. <https://www.dio.me/articles/utilizacao-do-chatgpt-em-trabalhos-e-artigos>
 - WILLI, Prof. *Como Escrever Artigos Científicos Com o ChatGPT*. <https://youtu.be/YjNPo440oMk>
 - DESCOMPLICADA, M. *As partes de um artigo científico*. <https://youtu.be/MaGDsTRKMOY>
-- Exemplo de TCC e Arduino: BANDEIRA, M. S.; CARNEIRO, R. S. <a href="https://app.uff.br/riuff/bitstream/handle/1/22265/TCC%20Matheus%20Bandeira%20e%20Rog%E9rio%20Carneiro_vSemAssinatura%20(1).pdf;jsessionid=C9A837B0A3C48D58A13FE0A8CA14BA4A?sequence=1">*Projeto Básico de Robô Seguidor de Linha Controlado por Arduino*</a>. UFRJ, 2021
+- Exemplo de TCC e Arduino
+     - BANDEIRA, M. S.; CARNEIRO, R. S. <a href="https://app.uff.br/riuff/bitstream/handle/1/22265/TCC%20Matheus%20Bandeira%20e%20Rog%E9rio%20Carneiro_vSemAssinatura%20(1).pdf;jsessionid=C9A837B0A3C48D58A13FE0A8CA14BA4A?sequence=1">*Projeto Básico de Robô Seguidor de Linha Controlado por Arduino*</a>. UFRJ, 2021.
 - UTFPR. *Modelo (editável) de Artigo Científico*. <http://paginapessoal.utfpr.edu.br/tiagolacerda/modelo-artigo-cientifico/MODELO%20PARA%20ELABORAR%20ARTIGO%20CIENTIFICO.doc/view>
 
 ## Revistas científicas (algumas)
