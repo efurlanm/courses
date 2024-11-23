@@ -1,9 +1,23 @@
 # Sistemas Digitais
 
-Web page: <https://efurlanm.github.io/teaching/sdigi/>
+1º sem 2019
 
-Referências:
+## Ementa
+
+- Sistemas de numeração. 
+- Álgebra de Boole. 
+- Circuitos combinacionais. 
+- Circuitos sequenciais síncronos e assíncronos (“Flip-Flops e Dispositivos Correlatos”). 
+- Famílias de circuitos lógicos. 
+- Dispositivos lógicos programáveis. 
+- Gate Arrays. 
+- Análise e projeto de sistemas digitais.
+
+## Referências
 
 ![](img/tocci.jpg)
 
 - TOCCI, Ronald J. ; WIDMER, Neal S.. *Sistemas Digitais*: princípios e aplicações. 11 ed. Rio de Janeiro: Pearson, 2011.
+
+
+<br><br><br>*Last edited: 2024-11-17*

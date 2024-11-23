@@ -1,9 +1,24 @@
 # Eletrotécnica Aplicada
 
-Website: <https://efurlanm.github.io/teaching/eapli/>
+2º sem 2017
 
-Referências:
+## Ementa
+
+- Elementos de circuitos de corrente contínua.
+- Lei de Ohm.
+- Potência em corrente contínua.
+- Teoremas de Thevenin e Norton.
+- Circuitos de corrente alternada.
+- Métodos das malhas para a resolução de circuitos.
+- Potência em corrente alternada.
+- Teorema da máxima transferência de potência.
+- Correção do fator de potência.
+
+## Referências
 
 ![](img/creder.jpg)
 
 - CREDER, Hélio. *Instalações Elétricas*. 16 ed. Rio de Janeiro: LTC, 2016.
+
+
+<br><br><br>*Last edited: 2024-11-17*

@@ -1,9 +1,31 @@
 # Algoritmos e Programação Estruturada
 
-Web page: <https://efurlanm.github.io/teaching/ape/>
+1º sem 2024
 
-Referências:
+## Ementa
+
+- Conceitos de algoritmos e programação. 
+- Componentes e elementos de linguagem de programação. 
+- Operações e expressões. 
+- Estruturas de decisão condicional. 
+- Estruturas de repetição condicional. 
+- Estruturas de repetição determinísticas. 
+- Procedimentos e funções. 
+- Escopo e passagem de parâmetros. 
+- Recursividade. 
+- Listas. 
+- Pilhas. 
+- Filas.
+
+## Referências
 
 ![](img/rovai.png)
 
 - ROVAI, K.R.; SCHEFFER, V.C.S; ARTERO M.A. *Algoritmos e programação estruturada*. 2020. ISBN 978-85-522-1682-7.
+
+## Observações
+
+- Os Jupyter Notebooks usam o *kernel* C : <https://github.com/XaverKlemenschits/jupyter-c-kernel>
+
+
+<br><br><br>*Last edited: 2024-11-17*

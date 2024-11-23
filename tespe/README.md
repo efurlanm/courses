@@ -1,10 +1,28 @@
 # Tópicos Especiais em Ciências da Computação
 
-Web page: <https://efurlanm.github.io/teaching/tespe/>
+2º sem 2019
 
-Referências:
+## Ementa
+
+- Multimídia: conceitos e tipos de sistemas. 
+- Tipografia. 
+- Áudio: processamento e síntese de som. 
+- Imagem. 
+- Vídeo: interfaces e processamento. 
+- Animação. 
+- Interação. 
+- Autoria: plataformas para multimídia. 
+- Ferramentas de desenvolvimento. 
+- Realidade Virtual: conceitos, tipos de sistemas e tecnologias afins.
+- Dispositivos não convencionais de entrada e saída. 
+- Software e linguagens para desenvolvimento de aplicações de realidade virtual. 
+- Modelagem e animação tridimensional.
+
+## Referências
 
 ![](img/multimidia.jpeg)
 
 - PAULA FILHO, Wilson de Padua. *Multimídia: conceitos e aplicações*. Rio de Janeiro: LTC, 2000.
 
+
+<br><br><br>*Last edited: 2024-11-17*

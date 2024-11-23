@@ -4,7 +4,28 @@
 
 ## Ementa
 
-Revisão sobre Estrutura de Dados. Linguagens de máquina e linguagem de montagem Assembly. Análise de Complexidade Assintótica. Noções básicas de Ordenação: InsertionSort, MergeSort, Quicksort e Heapsort. Filas de prioridade. Heaps esquerdistas e heaps binomiais. Estruturas de dicionário: acesso direto, transformação de chave, funções Hash. Colisões e Transbordamento. Hashing para Arquivos Extensíveis. Estruturas balanceadas e auto-ajustáveis. Árvore AVL, Vermelho-Preto, B, B+ e de espalhamento. Estruturas multidimensionais. Estruturas de dados aplicadas em banco de dados espaciais. Árvore Point-Quad e Polygon-Quad. Árvore R. Tries. Trie R-Way. Trie Ternária. Árvore PATRICIA. Arquivos Invertidos. Compressão de Textos em Linguagem Natural, Codificação RLE. Codificação de Huffman Usando Bytes, Huffman Adaptativo, Codificação de Lempel-Ziv.
+- Revisão sobre Estrutura de Dados. 
+- Linguagens de máquina e linguagem de montagem Assembly. 
+- Análise de Complexidade Assintótica. 
+- Noções básicas de Ordenação: InsertionSort, MergeSort, Quicksort e Heapsort. 
+- Filas de prioridade. 
+- Heaps esquerdistas e heaps binomiais. 
+- Estruturas de dicionário: acesso direto, transformação de chave, funções Hash. 
+- Colisões e Transbordamento. 
+- Hashing para Arquivos Extensíveis. 
+- Estruturas balanceadas e auto-ajustáveis. 
+- Árvore AVL, Vermelho-Preto, B, B+ e de espalhamento. 
+- Estruturas multidimensionais. 
+- Estruturas de dados aplicadas em banco de dados espaciais. 
+- Árvore Point-Quad e Polygon-Quad. 
+- Árvore R. 
+- Tries. 
+- Trie R-Way. 
+- Trie Ternária. 
+- Árvore PATRICIA. 
+- Arquivos Invertidos. 
+- Compressão de Textos em Linguagem Natural, Codificação RLE. 
+- Codificação de Huffman Usando Bytes, Huffman Adaptativo, Codificação de Lempel-Ziv.
 
 ## Referências
 
@@ -65,4 +86,4 @@ Revisão sobre Estrutura de Dados. Linguagens de máquina e linguagem de montage
 - Ziviani, N. (2014). Compressão de Textos. Universidade Federal de Minas Gerais, UFMG. https://homepages.dcc.ufmg.br/~nivio/cursos/ri14/transp/text-compression.pdf
 
 
-<br><br><br><small>Last edited: 2024-11-17</small>
+<br><br><br>*Last edited: 2024-11-17*
