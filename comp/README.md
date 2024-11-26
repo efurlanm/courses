@@ -57,6 +57,12 @@ Conhecer o funcionamento do compilador é importante para poder extrair o máxim
 - TOMAZELLI, G. [Implementação de um compilador para uma linguagem de programação com geração de código Microsoft .NET Intermediate Language](http://campeche.inf.furb.br/tccs/2004-I/2004-1giancarlotomazellivf.pdf). 2004.
 - BERGSTEN, N. A. L. [Um compilador Portugol-assembly para microcontrolador](http://www.ecomp.uefs.br/data/tcc/UM%20COMPILADOR%20PORTUGOL-ASSEMBLY%20PARA%20MICROCONTROLADOR.pdf). 2012.
 
+
+## A Construção de um Compilador
+
+Página com minhas notas sobre o livro "A Construção de um Compilador" de W. Setzer, e I. Melo. <https://efurlanm.github.io/ldi/compconstr/>
+
+
 ## Sites de Professores
 
 Contendo informações úteis sobre compiladores
