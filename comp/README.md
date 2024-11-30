@@ -10,7 +10,7 @@
 - Análise léxica.
 - Construção de um analisador léxico.
 - Análise sintática.
-- Tabela de símbolos, análise semântica e tradução dirigida por sintaxe.
+- Tabela de símbolos e análise semântica.
 - Tradução dirigida pela sintaxe.
 - Tabela de símbolos.
 - Geração de código intermediário.
