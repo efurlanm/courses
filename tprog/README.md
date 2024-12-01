@@ -8,7 +8,7 @@
 - Algoritmos de ordenação. 
 - Noções de programação orientada a objetos: conceitos básicos, modelo de programação, aplicações em engenharia.
 
-## Bibliografia
+## Referências
 
 ![](img/sebesta.jpg)
 

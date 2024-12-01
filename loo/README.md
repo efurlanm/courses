@@ -23,11 +23,7 @@
 
 ## Referências
 
-![](img/maitino.jpg) &emsp;
-![](img/andrijauskas.jpg) &emsp;
-![](img/santos.jpg) &emsp;
-![](img/alice.jpg) &emsp;
-![](img/greenfoot.jpg)
+![](img/maitino.jpg) ![](img/andrijauskas.jpg) ![](img/santos.jpg) ![](img/alice.jpg) ![](img/greenfoot.jpg)
 
 - MAITINO NETO, R. Programação orientada a objetos. Londrina: Editora e Distribuidora Educacional S.A, 2018. ISBN 978-85-522-0766-5
 - ANDRIJAUSKAS, F. Programação orientada a objetos II. Londrina: Editora e Distribuidora Educacional S.A, 2018. ISBN 978-85-522-1166-2

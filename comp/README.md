@@ -37,7 +37,7 @@ Conhecer o funcionamento do compilador é importante para poder extrair o máxim
 
 ![](img/setzer.jpg) ![](img/aho.jpg) ![](img/delamaro.jpg) ![](img/fedozzi.jpg)
 
-- SETZER, V. W.; MELO, I. S. H. [A construção de um compilador](https://drive.google.com/open?id=1MjaJMJs9zEluTe91UWIc__FM6zJY-ccn). 1989.
+- SETZER, V. W.; MELO, I. S. H. [A construção de um compilador](https://archive.org/details/a-construcao-de-um-compilador-r1.2). 1989.
 - AHO, A. V. et al. [Compiladores: princípios, técnicas e ferramentas](https://www.amazon.com.br/Compiladores-princ%C3%ADpios-ferramentas-Alfred-Aho/dp/8588639246). 2008.
 - FEDOZZI, R. [Compiladores](http://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/COMPILADORES/U1/LIVRO_UNICO.pdf). 2018.
 - DELAMARO, M. [Como Construir um Compilador Utilizando Ferramentas Java](https://sites.icmc.usp.br/delamaro/SlidesCompiladores/CompiladoresFinal.pdf). 2004.

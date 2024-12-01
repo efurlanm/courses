@@ -11,7 +11,7 @@
 - Equipamentos. 
 - Tecnologia das instalações: Projeto de instalações elétricas e afins e seu desenvolvimento.
 
-## Bibliografia
+## Referências
 
 ![](img/creder.jpg)
 

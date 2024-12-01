@@ -163,7 +163,7 @@ Leia a maior quantidade de artigos possíveis, para se acostumar com o tipo de p
   
   - [Edição RUI volume 11 janeiro/junho 2016](http://seer.unib.br/~unib5/seer/seer_unib/index.php/rev/issue/viewFile/15/pdf_29)
 
-## Bibliografia
+## Referências
 
 - FERNANDES, S. et al. *A Aprendizagem Baseada em Projetos Interdisciplinares no Ensino Superior*: implicações ao nível do trabalho docente. Disponível em <https://www.researchgate.net/publication/270823400>
 - FCAT. *Diretrizes Gerais dos Projetos Interdisciplinares*. Disponível em <http://www.fcat.edu.br/pdf/graduacao/Diretrizes%20Gerais%20dos%20Projetos%20Interdisciplinares.pdf>
