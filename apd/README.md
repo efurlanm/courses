@@ -1,0 +1,1 @@
+# Arquiteturas Paralelas e Distribuídas 
