@@ -2,7 +2,14 @@
 
 This repository contains my personal notes related to the subjects I teach (in Portuguese).
 
-Website: <https://efurlanm.github.io/teaching/>
+## Current duties
+
+- [Arquiteturas Paralelas e Distribuídas](apd)
+- [Linguagens Formais e Automatos](lfa)
+- [Linguagem de Programação](lprog)
+- [Tecnologia e Infraestrutura de Transporte](tit)
+- [Projeto Integrado](pi)
+- [Trabalho de Conclusão de Curso](tcc)
 
 ## Courses (in Portuguese)
 
@@ -16,7 +23,6 @@ Website: <https://efurlanm.github.io/teaching/>
 - [Gestão da Produção](gprod)
 - [Gestão de Projetos para Produção](gproj)
 - [Linguagem Orientada a Objetos](loo)
-- [Linguagem de Programação](lprog)
 - [Linguagens Formais, Autômatos e Computabilidade](lform)
 - [Logística Reversa](lreve)
 - [Lógica e Matemática Computacional](lmc)
@@ -24,7 +30,6 @@ Website: <https://efurlanm.github.io/teaching/>
 - [Organização Industrial e Automação](oauto)
 - [Planejamento Estratégico da Produção](pestr)
 - [Programação Orientada a Objetos](poo)
-- [Projeto Integrado](pi)
 - [Projeto de Máquinas](pmaq)
 - [Proteção do Sistema Elétrico de Potência](psep)
 - [Redes de Comunicação Industrial](rci)
@@ -37,5 +42,4 @@ Website: <https://efurlanm.github.io/teaching/>
 - [Técnicas de Programação](tprog)
 - [Tópicos Especiais em Ciências da Computação](tespe)
 
-
-<br><br><br>*Last edited: 2024-11-23*
+<br><br><br>*Last edited: 2024-12-19*
