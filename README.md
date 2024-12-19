@@ -7,7 +7,6 @@ This repository contains my personal notes related to the subjects I teach (in P
 - [Arquiteturas Paralelas e Distribuídas](apd)
 - [Linguagens Formais e Automatos](lfa)
 - [Linguagem de Programação](lprog)
-- [Tecnologia e Infraestrutura de Transporte](tit)
 - [Projeto Integrado](pi)
 - [Trabalho de Conclusão de Curso](tcc)
 
