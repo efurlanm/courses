@@ -32,4 +32,4 @@
 - DEITEL, H. M. Python. Upper Saddle River, N.J. Prentice Hall. 2002.
 
 
-<br><br><br>*Last edited: 2024-11-17*
+<br><sub>Last edited: 2024-11-17</sub>
