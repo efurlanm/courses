@@ -86,7 +86,4 @@
 - Ziviani, N. (2014). Compressão de Textos. Universidade Federal de Minas Gerais, UFMG. https://homepages.dcc.ufmg.br/~nivio/cursos/ri14/transp/text-compression.pdf
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:09:36</sub>
+<br><sub>Last edited: 2025-02-23 11:40:02</sub>

@@ -20,7 +20,4 @@
 - TOCCI, Ronald J. ; WIDMER, Neal S.. *Sistemas Digitais*: princípios e aplicações. 11 ed. Rio de Janeiro: Pearson, 2011.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:29:05</sub>
+<br><sub>Last edited: 2025-02-23 11:53:10</sub>

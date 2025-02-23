@@ -34,11 +34,4 @@
 - [Automação do Processo de Mapeamento de Rotas de Ciclistas: Testes com um GPS Arduino](https://www.researchgate.net/publication/333351193_Automacao_do_Processo_de_Mapeamento_de_Rotas_de_Ciclistas_Testes_com_um_GPS_Arduino)
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-
-
-
-
-<br><sub>Last edited: 2024-11-23 12:14:16</sub>
+<br><sub>Last edited: 2025-02-23 11:40:56</sub>

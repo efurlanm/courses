@@ -46,7 +46,4 @@
 - TSUZUKI, Marcos de Sales Guerra; MARUYAMA, Newton. PMR3412 Redes Industriais 2023 Aula 12 RS-232/485 e protocolos. [s.l.: s.n.]. Disponível em: <https://edisciplinas.usp.br/pluginfile.php/8058540/mod_resource/content/1/PMR3412Aula12.pdf>.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 11:54:18</sub>
+<br><sub>Last edited: 2025-02-23 11:53:02</sub>

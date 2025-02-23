@@ -21,7 +21,4 @@
 - CORREA. H.; GIANESI. I. *Just in Time, MRP II e OPT*: um enfoque estratégico. 2. ed. São Paulo: Atlas, 2011.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:24:21</sub>
+<br><sub>Last edited: 2025-02-23 11:46:12</sub>

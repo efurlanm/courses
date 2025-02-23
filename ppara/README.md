@@ -21,7 +21,4 @@
 - TANENBAUM, Andrew S.; STEEN, Maarten Van. *Sistemas Distribuídos*: princípios e paradigmas. 2 ed. São Paulo: Pearson, 2007
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:27:15</sub>
+<br><sub>Last edited: 2025-02-23 11:52:41</sub>

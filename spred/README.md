@@ -18,7 +18,4 @@
 - CREDER, Hélio. *Instalações Elétricas*. 16 ed. Rio de Janeiro: LTC, 2016.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-30 22:10:53</sub>
+<br><sub>Last edited: 2025-02-23 11:53:42</sub>

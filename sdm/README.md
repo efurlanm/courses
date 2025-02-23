@@ -55,7 +55,4 @@
 - SCHULTZ, C. *GanttProject*. <https://www.youtube.com/@xxultz/search?query=ganttproject> (Software para Cronograma)
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 11:56:57</sub>
+<br><sub>Last edited: 2025-02-23 11:53:19</sub>

@@ -25,7 +25,4 @@
 - GROOVER, Mikell P. *Automação Industrial e Sistemas de Manufatura*. 3. ed. São Paulo: Pearson Prentice Hall, 2011.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:22:57</sub>
+<br><sub>Last edited: 2025-02-23 11:45:56</sub>

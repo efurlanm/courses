@@ -25,7 +25,4 @@
 - PAULA FILHO, Wilson de Padua. *Multimídia: conceitos e aplicações*. Rio de Janeiro: LTC, 2000.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:04:23</sub>
+<br><sub>Last edited: 2025-02-23 11:53:54</sub>

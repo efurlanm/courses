@@ -135,7 +135,5 @@ Contendo informações úteis sobre compiladores
 
 - [Por que Pascal ?](pascal.md) - anotações sobre a linguagem Pascal.
 
-<br><br><br>*Last edited: 2024-11-28*
 
-
-<br><sub>Last edited: 2024-11-30 22:14:38</sub>
+<br><sub>Last edited: 2025-02-23 11:41:07</sub>

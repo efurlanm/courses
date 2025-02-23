@@ -29,7 +29,4 @@
 - ARTERO, M. A. *Gestão de Projetos de Software*. Londrina: EDE SA, 2016. ISBN 978-85-8482-671-1.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2025-02-23 11:19:38</sub>
+<br><sub>Last edited: 2025-02-23 11:46:21</sub>

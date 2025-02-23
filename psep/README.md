@@ -24,7 +24,4 @@
 - FRAZÃO, RJA. *Proteção do Sistema Elétrico de Potência*. 2019. ISBN 978-85-522-1435-9.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:27:57</sub>
+<br><sub>Last edited: 2025-02-23 11:52:53</sub>

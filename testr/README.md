@@ -53,7 +53,4 @@ Programa Gráfico-Interativo para Ensino de Comportamento de Estruturas.
 - [exercicio-02-viga.ipynb](exercicio-02-viga.ipynb) (usa o Jupyter Notebook)
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:32:33</sub>
+<br><sub>Last edited: 2025-02-23 11:54:01</sub>

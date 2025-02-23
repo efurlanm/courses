@@ -24,8 +24,4 @@
 - [*playlist* com 30 vídeos do Prof. Daniel Lucrédio](https://www.youtube.com/playlist?list=PLaPmgS59eMSGBPhHwyDLUzFrtTsc2yHJt)
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-
-<br><sub>Last edited: 2024-11-23 12:20:28</sub>
+<br><sub>Last edited: 2025-02-23 11:41:54</sub>

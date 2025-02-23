@@ -25,9 +25,4 @@
 - RODRIGUES, P. R. A. *Introdução aos Sistemas de Transporte no Brasil e à Logística Internacional*. 4 ed. São Paulo: Aduaneiras, 2007.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-
-
-<br><sub>Last edited: 2024-11-23 12:23:45</sub>
+<br><sub>Last edited: 2025-02-23 11:46:04</sub>

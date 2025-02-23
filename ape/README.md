@@ -28,7 +28,4 @@
 - Os Jupyter Notebooks usam o *kernel* C : <https://github.com/XaverKlemenschits/jupyter-c-kernel>
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:13:24</sub>
+<br><sub>Last edited: 2025-02-23 11:40:42</sub>

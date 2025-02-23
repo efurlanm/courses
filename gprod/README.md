@@ -20,7 +20,4 @@
 - ALBERTIN, Marcos R.; PONTES, Heráclito LJ. *Administração da produção e operações*. Curitiba: Intersaberes, 2016.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:17:58</sub>
+<br><sub>Last edited: 2025-02-23 11:41:26</sub>

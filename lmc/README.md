@@ -33,7 +33,4 @@
 - SCHEFFER, Vanessa Cadan; VIEIRA, Gilberto; LIMA, Thiago Pinheiro Félix da Silva E. Lógica computacional. [s.l.] : Editora e Distribuidora Educacional S.A., 2020. ISBN: 978-85-522-1688-9.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 10:37:35</sub>
+<br><sub>Last edited: 2025-02-23 11:42:04</sub>

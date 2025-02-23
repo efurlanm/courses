@@ -72,7 +72,4 @@
 - [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1wlkBIcKHDTdjmopo-5cJ-stTVTWylWlV)
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-30 22:40:13</sub>
+<br><sub>Last edited: 2025-02-23 11:42:15</sub>

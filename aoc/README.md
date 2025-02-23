@@ -40,7 +40,4 @@
 - STALLINGS, William. Arquitetura e organização de computadores. 10.ed. São Paulo: Pearson Pratice Hall, 2018.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2025-02-23 11:18:31</sub>
+<br><sub>Last edited: 2025-02-23 11:40:18</sub>

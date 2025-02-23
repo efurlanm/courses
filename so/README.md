@@ -25,7 +25,4 @@
 - BARBOSA, C. da S. *Sistemas Operacionais*. Londrina: EDE SA, 2018. ISBN 978-85-522-1177-8.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:00:12</sub>
+<br><sub>Last edited: 2025-02-23 11:53:34</sub>

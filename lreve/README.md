@@ -18,7 +18,4 @@
 - IZIDORO, Cleyton. *Logística Reversa*. São Paulo: Pearson Education do Brasil, 2015.
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:22:10</sub>
+<br><sub>Last edited: 2025-02-23 11:45:46</sub>

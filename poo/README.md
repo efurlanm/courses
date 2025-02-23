@@ -47,7 +47,4 @@ Dentre os objetivos do projeto final da disciplina, estão:
 - Incentivar a produção de conhecimento
 
 
-<br><br><br>*Last edited: 2024-11-17*
-
-
-<br><sub>Last edited: 2024-11-23 12:26:12</sub>
+<br><sub>Last edited: 2025-02-23 11:52:32</sub>

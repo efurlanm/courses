@@ -4,17 +4,18 @@ This repository contains my personal notes related to the subjects I teach (in P
 
 ## Current duties
 
+- [Arquitetura e Organização de Computadores](aoc)
 - [Arquiteturas Paralelas e Distribuídas](apd)
-- [Linguagens Formais e Automatos](lfa)
+- [Linguagens Formais e Autômatos](lfa)
 - [Linguagem de Programação](lprog)
 - [Projeto Integrado](pi)
+- [Sistemas Operacionais](so)
 - [Trabalho de Conclusão de Curso](tcc)
 
-## Courses (in Portuguese)
+## Courses
 
 - [Algoritmos e Estrutura de Dados Avançado](aed)
 - [Algoritmos e Programação Estruturada](ape)
-- [Arquitetura e Organização de Computadores](aoc)
 - [Compiladores](comp)
 - [Criatividade e Inovação](cinov)
 - [Eletrotécnica Aplicada](eapli)
@@ -35,13 +36,10 @@ This repository contains my personal notes related to the subjects I teach (in P
 - [Sistemas Digitais e Microprocessadores](sdm)
 - [Sistemas Digitais](sdigi)
 - [Sistemas Elétricos de Potência](sep)
-- [Sistemas Operacionais](so)
 - [Sistemas Prediais](spred)
 - [Teoria das Estruturas](testr)
 - [Técnicas de Programação](tprog)
 - [Tópicos Especiais em Ciências da Computação](tespe)
 
-<br><br><br>*Last edited: 2024-12-19*
 
-
-<br><sub>Last edited: 2024-12-19 15:09:47</sub>
+<br><sub>Last edited: 2025-02-23 11:39:19</sub>
