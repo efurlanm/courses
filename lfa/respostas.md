@@ -62,3 +62,6 @@ d) ∅ é uma relação de A para B .
 e) Se A ⊊ B e B é finito, então existe uma função injetiva f : B → A .
 
 
+
+
+<br><sub>Last edited: 2024-12-23 23:25:03</sub>

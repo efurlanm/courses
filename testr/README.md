@@ -54,3 +54,6 @@ Programa Gráfico-Interativo para Ensino de Comportamento de Estruturas.
 
 
 <br><br><br>*Last edited: 2024-11-17*
+
+
+<br><sub>Last edited: 2024-11-23 12:32:33</sub>

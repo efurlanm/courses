@@ -1,6 +1,6 @@
 # Linguagem de Programação
 
-2º sem 2023 e 2º sem 2018
+1º sem 2025, 2º sem 2023, e 2º sem 2018
 
 ## Ementa
 
@@ -32,4 +32,4 @@
 - DEITEL, H. M. Python. Upper Saddle River, N.J. Prentice Hall. 2002.
 
 
-<br><sub>Last edited: 2024-11-17</sub>
+<br><sub>Last edited: 2025-02-23 11:19:23</sub>

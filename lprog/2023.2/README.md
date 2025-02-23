@@ -9,3 +9,6 @@ Caracterização das linguagens de programação de computadores e de seus difer
 - FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. *Lógica de programação*: a construção de algoritmos e estruturas de dados. 3. ed. São Paulo: Prentice Hall Brasil, 2005.
 - GUEDES, Sérgio (Org.). *Lógica de programação algorítmica*. São Paulo: Pearson Education Brasil, 2014.
 - SEBESTA, Robert W. *Conceitos de linguagens de programação*. 9. ed. Porto Alegre: Bookman, 2011.
+
+
+<br><sub>Last edited: 2024-11-23 10:45:01</sub>

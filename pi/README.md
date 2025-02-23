@@ -1,6 +1,6 @@
 # Projeto Integrado
 
-1º e 2º sem 2024
+1º sem 2025, 1º e 2º sem 2024
 
 ## Ementa
 
@@ -30,3 +30,6 @@
 
 
 <br><br><br>*Last edited: 2024-11-17*
+
+
+<br><sub>Last edited: 2025-02-23 11:19:38</sub>

@@ -1,36 +1,36 @@
 # Arquiteturas Paralelas e Distribuídas
 
-1° sem 2025
+1º sem 2025
 
 ## Ementa
 
-FUNDAMENTOS DA PROGRAMAÇÃO PARALELA
+* FUNDAMENTOS DA PROGRAMAÇÃO PARALELA
 
-* Introdução à programação paralela e Distribuída
-* Conceitos basicos de concorrência
-* Taxonomia de arquiteturas paralelas: SISD, SIMD, MIMD e SPMD
-* Arquitetura de hardware para comunicação entre processadores: memória compartilhada
+    * Introdução à programação paralela e Distribuída
+    * Conceitos básicos de concorrência
+    * Taxonomia de arquiteturas paralelas: SISD, SIMD, MIMD e SPMD
+    * Arquitetura de hardware para comunicação entre processadores: memória compartilhada
 
-FUNDAMENTOS DA PROGRAMAÇÃO PARALELA E DISTRIBUÍDA
+* FUNDAMENTOS DA PROGRAMAÇÃO PARALELA E DISTRIBUÍDA
 
-* Memória distribuída e hierarquia de memórias
-* Programação com variáveis compartilhadas
-* Programação de processos, sincronização e monitores
-* Programação distribuída: passagem de mensagens
+    * Memória distribuída e hierarquia de memórias
+    * Programação com variáveis compartilhadas
+    * Programação de processos, sincronização e monitores
+    * Programação distribuída: passagem de mensagens
 
-PARADIGMAS E FERRAMENTAS DA PROGRAMAÇÃO PARALELA E DISTRIBUÍDA
+* PARADIGMAS E FERRAMENTAS DA PROGRAMAÇÃO PARALELA E DISTRIBUÍDA
 
-* RPC e paradigmas de interação entre processos
-* Definição dos passos para a criação de um programa paralelo
-* Ferramentas para programação paralela: bibliotecas MPI
-* Ferramentas para programação paralela: OpenMP
+    * RPC e paradigmas de interação entre processos
+    * Definição dos passos para a criação de um programa paralelo
+    * Ferramentas para programação paralela: bibliotecas MPI
+    * Ferramentas para programação paralela: OpenMP
 
-ANÁLISE DE DESEMPENHO E DEPURAÇÃO DE PROGRAMAS PARALELOS
+* ANÁLISE DE DESEMPENHO E DEPURAÇÃO DE PROGRAMAS PARALELOS
 
-* Ferramentas para programação paralela: Pthreads
-* Compiladores paralelizadores e as linguagens Linda, Java e HPF
-* Análise de desempenho e depuração de programas paralelos
-* Exemplos de programas paralelos para aplicações específicas
+    * Ferramentas para programação paralela: Pthreads
+    * Compiladores paralelizadores e as linguagens Linda, Java e HPF
+    * Análise de desempenho e depuração de programas paralelos
+    * Exemplos de programas paralelos para aplicações específicas
 
 ## Referências
 
@@ -74,14 +74,16 @@ ANÁLISE DE DESEMPENHO E DEPURAÇÃO DE PROGRAMAS PARALELOS
 * ESTRELLA, J. C. Computação paralela e distribuída. [S. l.: s. n.], 4 out. 2022. Disponível em: https://www.youtube.com/watch?v=c5MlNQTjuX4.
 * FILETO, R. Sistemas distribuídos - aula 07 - chamada de procedimento remoto (RPC). [S. l.: s. n.], 29 set. 2020. Disponível em: https://www.youtube.com/watch?v=k6_W99yH_4o.
 * GUBI, L. A. D. MAC0431 - introdução à computação paralela e distribuída. [S. l.: s. n.], 11 nov. 2011. Disponível em: https://www.youtube.com/watch?v=-nrTVi-2x88.
-* 
 * JULIO, E. H. Sistemas distribuídos - comunicação - parte 3 - passagem de mensagens. [S. l.: s. n.], 12 jun. 2013. Disponível em: https://www.youtube.com/watch?v=p4vW935aZ6E.
 * NONATO, L. G. Introdução a programação paralela - parte 1. [S. l.: s. n.], 20 out. 2014. Disponível em: https://www.youtube.com/watch?v=z8v3r8x7iC8.
 * PACHECO, P. S. An introduction to parallel programming - chapter 1. [S. l.: s. n.], 2020. Disponível em: https://www.youtube.com/watch?v=qN5jE7F9rgc.
 * SILBERSCHATZ, P. B. G., Abraham; Galvin. Operating system concepts - chapter 6 - synchronization - monitors. [S. l.: s. n.], 2021. Disponível em: https://www.youtube.com/watch?v=n7-59f-YkG8.
 
-## Curso
+## *Links* de interesse
 
 * GUEDES, Dorgival. Fundamentos de Sistemas Paralelos e Distribuídos. UFMG. 
   * Programa da disciplina: https://homepages.dcc.ufmg.br/~dorgival/dokuwiki/doku.php?id=fundamentos_de_sistemas_paralelos_e_distribuidos
   * Vídeos: https://www.youtube.com/playlist?list=PL-blDbur9o_59jeRUU0f6NdL-l3H9EKXX
+
+
+<br><sub>Last edited: 2025-02-23 11:18:07</sub>

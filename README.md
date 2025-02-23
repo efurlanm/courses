@@ -42,3 +42,6 @@ This repository contains my personal notes related to the subjects I teach (in P
 - [Tópicos Especiais em Ciências da Computação](tespe)
 
 <br><br><br>*Last edited: 2024-12-19*
+
+
+<br><sub>Last edited: 2024-12-19 15:09:47</sub>

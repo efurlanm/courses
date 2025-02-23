@@ -1,15 +1,15 @@
 # Arquitetura e Organização de Computadores
 
-2º sem 2024 e 2º sem 2018
+1º sem 2025, 2º sem 2024, e 2º sem 2018
 
-## Ementa 2º sem 2024
+## Ementa
 
 - Fundamentos de Sistemas Computacionais
     - Conceitos básicos de arquitetura e organização de computadores
     - Desenvolvimento histórico
     - A estrutura básica de um computador
     - A hierarquia de níveis de computador
-- Componetes básicos de um computador
+- Componentes básicos de um computador
     - Unidade central de processamento (CPU)
     - Memória principal
     - Memória secundária
@@ -41,3 +41,6 @@
 
 
 <br><br><br>*Last edited: 2024-11-17*
+
+
+<br><sub>Last edited: 2025-02-23 11:18:31</sub>

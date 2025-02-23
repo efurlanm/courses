@@ -120,3 +120,6 @@
 - BARBOSA, F. *Publicando o Seu Portfólio na Rede | Github Pages*. <https://youtu.be/fu6mHp4ud4s>
 - BARBOSA, F. *Portfólio Responsivo Integrado com Github do Zero | HTML, CSS & JS*. <https://youtu.be/EJGMZfeTX-4>
 - MENDES, E. *Documentando projetos com MkDocs - Live de Python #189*.  <https://www.youtube.com/live/GW6nAJ1NHUQ>
+
+
+<br><sub>Last edited: 2024-11-23 13:25:42</sub>

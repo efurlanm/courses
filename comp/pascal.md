@@ -88,3 +88,6 @@ Existe um excelente livro, em Português, escrito pelos Profs. Setzer e Melo, qu
     - <https://www.tutorialspoint.com/compile_pascal_online.php>
 - Relação de opções de linha de comando do FreePascal
     - <https://www.freepascal.org/docs-html/current/user/userap1.html>
+
+
+<br><sub>Last edited: 2024-11-17 13:24:44</sub>

@@ -42,3 +42,6 @@ Interpretador baseado na Web para o computador educacional HIPO.
 ## Printscreen do simulador
 
 ![Simulador](img/hipo.png)
+
+
+<br><sub>Last edited: 2024-11-17 20:09:02</sub>

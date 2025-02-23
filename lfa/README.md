@@ -1,6 +1,6 @@
 # Linguagens Formais e Autômatos
 
-1° SEM 2025
+1º sem 2025
 
 ## Ementa
 
@@ -11,7 +11,7 @@
         * Elementos de Matemática Discreta: Conjuntos Enumeráveis
         * Elementos de Matemática Discreta: Conjuntos.
         * Elementos de Matemática Discreta: Relações e Funções
-        * Teoremas e Demonstraçoes
+        * Teoremas e Demonstrações
 
     * CONCEITOS BÁSICOS DE LINGUAGENS
 
@@ -72,8 +72,6 @@
         * Configurações, aceitação por estado final e aceitação por pilha vazia
         * Conversão de gramáticas livres de contexto para autômatos com pilha
         * Definição Formal de Autômatos com Pilha
-
-
 
 * LINGUAGENS SENSÍVEIS AO CONTEXTO E RECURSIVAMENTE ENUMERÁVEIS
 
@@ -146,3 +144,6 @@
 * [RUI, J](https://prof-joserui.notion.site/AEDsI-Turma-Virtual-f89e5433c0fd4d2cbb287660a8154dc0). Linguagens Formais e Automatos. https://www.youtube.com/playlist?list=PLqlIQgAFrQ14oDPZliY1-tyupYs0prBmW
 * [LUCRÉDIO, D.](https://bv.fapesp.br/pt/pesquisador/11567/daniel-lucredio/). Linguagens Formais e Autômatos. https://www.youtube.com/playlist?list=PLaPmgS59eMSGBPhHwyDLUzFrtTsc2yHJt
 * [LITTIKE, K. A.](https://scholargps.com/scholars/20283965333364/kaio-alan-littike). MINIMIZAÇÃO DE AFD'S | Autômato finito determinístico | Linguagens formais e autômatos. https://www.youtube.com/watch?v=gU6SN2PeDjg 
+
+
+<br><sub>Last edited: 2025-02-23 11:18:58</sub>

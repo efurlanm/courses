@@ -169,3 +169,6 @@ Leia a maior quantidade de artigos possíveis, para se acostumar com o tipo de p
 - FCAT. *Diretrizes Gerais dos Projetos Interdisciplinares*. Disponível em <http://www.fcat.edu.br/pdf/graduacao/Diretrizes%20Gerais%20dos%20Projetos%20Interdisciplinares.pdf>
 - AGUADO, A. et al. *Projeto Interdisciplinar*. Disponível em <http://www.ifspcapivari.com.br/documentos/ads/projeto-interdisciplinar-ads-2016-2.pdf>
 - CHAVES, E. *O que é um Projeto Interdisciplinar?*. Disponível em <http://www.educacaopublica.rj.gov.br/biblioteca/educacao/0026.html>
+
+
+<br><sub>Last edited: 2024-11-30 22:10:45</sub>
