@@ -1,6 +1,6 @@
 # Arquiteturas Paralelas e Distribuídas
 
-1° SEM 2025
+1° sem 2025
 
 ## Ementa
 
